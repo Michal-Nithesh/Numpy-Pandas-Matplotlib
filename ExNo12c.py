@@ -15,3 +15,4 @@ ax.set_xlabel('Glucose')
 ax.set_ylabel('BMI')
 ax.set_zlabel('Age')
 plt.show()
+
